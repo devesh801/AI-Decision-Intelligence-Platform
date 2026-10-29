@@ -186,8 +186,7 @@ AI | Machine Learning | Generative AI | Data Science
 
 ---
 
-⭐ If you like this project, consider giving it a star!
-# 📸 Screenshots
+
 
 ## 🏠 Home Page
 
